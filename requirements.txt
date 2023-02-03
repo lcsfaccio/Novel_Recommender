@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-math
+math>=3.11.0
 statistics
 scipy.spatial
 surprise
