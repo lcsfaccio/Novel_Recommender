@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import math
+# import math
 import statistics
 from scipy.spatial import distance
 from surprise import Dataset
@@ -65,7 +65,7 @@ def distance_weight(vector1, vector2, weight):
     _ = ((vector1[p] - vector2[p]) ** 2) * weight[p]
     s += _
     p += 1
-  return math.sqrt(s) / sum(weight)
+  return np.sqrt(s) / sum(weight)
 
 def rec_w(context, weight=None):
   w = [1/2] * 5
