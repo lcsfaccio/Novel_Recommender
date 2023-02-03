@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+math
+statistics
+scipy.spatial
+surprise
