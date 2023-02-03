@@ -12,7 +12,7 @@ df = pd.read_csv("algoritmo - Base.csv")
 # filtros para a tabela
 st.sidebar.markdown('## Selecione o seu nome')
 
-nomes = list(df['name'].unique())
+nomes = list(df['name'].unique().sort_values(by='name'))
 nome = st.sidebar.selectbox('Selecione seu perfil', options = nomes)
 codigo = df.query('name == @nome')['name_cod'].unique()[0]
 
