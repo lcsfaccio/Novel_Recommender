@@ -4,6 +4,3 @@ numpy
 statistics
 scipy
 surprise
-asyncio
-dotenv
-streamlit_google_oauth
