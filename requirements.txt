@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 statistics
-scipy.spatial
+scipy
 surprise
 os
 asyncio
