@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from dotenv
+import dotenv
 import streamlit_google_oauth as oauth
 
 load_dotenv()
