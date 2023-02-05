@@ -6,5 +6,5 @@ scipy.spatial
 surprise
 os
 asyncio
-load_dotenv
+dotenv
 streamlit_google_oauth
