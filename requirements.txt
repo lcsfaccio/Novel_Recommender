@@ -2,5 +2,9 @@ streamlit
 pandas
 numpy
 statistics
-scipy
+scipy.spatial
 surprise
+os
+asyncio
+load_dotenv
+streamlit_google_oauth
