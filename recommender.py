@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import statistics
+# import statistics
 from scipy.spatial import distance
 from surprise import Dataset
 from surprise import Reader
