@@ -3,4 +3,4 @@ pandas
 numpy
 scipy
 surprise
-asyncio
+git+https://github.com/hunkim/streamlit-google-oauth
