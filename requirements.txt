@@ -4,3 +4,4 @@ numpy
 scipy
 surprise
 asyncio
+streamlit_google_oauth
