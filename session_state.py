@@ -1,9 +1,9 @@
 import streamlit as st
 #import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import streamlit_google_oauth as oauth
 
-load_dotenv()
+#load_dotenv()
 # os.environ["GOOGLE_CLIENT_ID"] ="186940062697-acgucff8i09gu24f5akkjnassgt7uceh.apps.googleusercontent.com"
 # os.environ["GOOGLE_CLIENT_SECRET"] ="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"
 # os.environ["GOOGLE_REDIRECT_URI"] ="http://localhost:8501"
