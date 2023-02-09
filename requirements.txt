@@ -3,5 +3,4 @@ pandas
 numpy
 scipy
 surprise
-dotenv
 asyncio
