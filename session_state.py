@@ -1,7 +1,7 @@
 import streamlit as st
 #import os
 #from dotenv import load_dotenv
-import streamlit_google_oauth as oauth
+#import streamlit_google_oauth as oauth
 
 #load_dotenv()
 # os.environ["GOOGLE_CLIENT_ID"] ="186940062697-acgucff8i09gu24f5akkjnassgt7uceh.apps.googleusercontent.com"
